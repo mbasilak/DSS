@@ -1,3 +1,3 @@
 # DSS
 Decision support system for freight management
-Project Under the guidance of Anoop,pH.D scholar,NIT calicut
+Project Under the guidance of Anoop,Ph.D scholar,NIT calicut
